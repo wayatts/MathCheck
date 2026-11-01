@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Large Datasets (Do NOT push gigabytes of raw data to GitHub)
+data/raw/
+data/processed/images/
+
+# Streamlit config / cache
+.streamlit/
